@@ -12,11 +12,11 @@ acount with one tap and bill payments, all through an intuitive and user-friendl
 interface. With special features like date, time, any general information assist to
 the users.</h3>
 <p>
-For Mac OSX:<br>
-pip install pyobjc
+<b>For Mac OSX:<br>
+pip install pyobjc</b>
 <br><br>
-For Windows:<br>
-pip install portaudio
+<b>For Windows:<br>
+pip install portaudio</b>
 </p>
 <br><br>
 <h3>Methodology:</h3>
