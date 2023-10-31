@@ -1,6 +1,6 @@
 # raghu-atm-assist
 <br>
-<h2>RAGHU, The voice operated Smart Automated Teller Machine (S - ATM) Assistant.</h2>
+<h3>RAGHU, The voice operated Smart Automated Teller Machine (S - ATM) Assistant.</h3>
 
 <p>Author: P S Vishnu</p>
 <br>
@@ -26,7 +26,7 @@ the following key steps: <br>
 1. Query identification: Always listening Smart ATM assistant RAGHU identifies queries and
 always listening to your query. Any sound heard in the ATM booth it says its welcome prompt
 “Hi, I’m raghu your ATM smart Assistant. How can i help you?” If any words like “cash”
-“money” “Transaction” “balance” “withdrawl” “rupees” “account” etheard by Smart ATM
+“money” “Transaction” “balance” “withdrawl” “rupees” “account” banking" "rupees" "atm" heard by Smart ATM
 assistant It will process the query by doing User Identification. <br>
 
 2. User Identification: The Smart ATM assistant prompt the user to tap the ATM card on
