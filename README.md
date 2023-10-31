@@ -1,6 +1,6 @@
 # raghu-atm-assist
 <br><br>
-<h1>RAGHU, The voice operated Smart Automated Teller Machine (S - ATM) Assistant.</h1>
+<h2>RAGHU, The voice operated Smart Automated Teller Machine (S - ATM) Assistant.</h2>
 <br><br>
 <h2>Application is a digital banking solution designed to provide convenient and secure access to financial services for customers and with people with special needs and differently abled such as blind & deaf.</h2>
 <br> <br>
